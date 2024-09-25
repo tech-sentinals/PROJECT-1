@@ -54,7 +54,7 @@ header ul li a:hover {
 /* Hero Section */
 .hero-section {
     height: 50vh;
-    background: url('https://via.placeholder.com/1200x800') no-repeat center center/cover;
+    background: url('fortis.jpg') no-repeat center center/cover;
     display: flex;
     justify-content: center;
     align-items: center;
